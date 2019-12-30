@@ -1,0 +1,40 @@
+Course name
+==============
+Intelligent Agents 1
+
+
+Lecturer
+=========	
+VAN DER TORRE Leon
+PARENT Xavier
+VAN ZEE Marc (assistant)
+	
+Assessment
+==========
+Final exam 65%
+Homework/Intermediate tests 35%
+
+Objective
+=========
+The objective of this course is to introduce students to knowledge representation and reasoning methods for intelligent agent systems.
+
+Description
+===========
+
+The course has 4 parts:
+
+1. Modal logics for agent reasoning
+
+2. Natural language semantics
+
+3. Nonmonotonic reasoning under uncertainty 
+
+4. Argumentation and belief revision
+
+Learning Outcomes
+=================
+
+- Explain the nature and roles of different formal theories used for individual reasoning and autonomous agents, such as various modal logics, belief change formalisms, or methods for uncertainty management
+
+- Define and apply the basic concepts of one or two non-classical logics (e.g. modal logic and default logics), notably their semantics and proof calculi
+

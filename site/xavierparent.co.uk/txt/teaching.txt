@@ -1,0 +1,14 @@
+<b>Intelligent Agents </b>(Fall 2010) <br>
+ <a href="http://parent.gforge.uni.lu/papers/agentsschedule.txt">Syllabus</a>
+ 
+<p>
+<b>Introduction to AI</b> (Spring 2009)
+<br> 
+Topics covered : planning ; prolog ; learning</p><p>
+<b>Normative multi-agent systems</b> <br> Tutorial for EASSS'09 <br> With Leon van der Torre and Guido Boella
+<br>
+Topic: dyadic deontic logic 
+<br> 
+<a href="http://agents009.di.unito.it/easss_courses.html">Course description</a> 
+
+</p>

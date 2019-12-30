@@ -1,0 +1,146 @@
+With L. van der Torre.&nbsp;Input/output logics. To appear in J. Horty, L. van der 
+Torre, D. Gabbay and R. van der Meyden (eds), <emp>Handbook of Deontic Logic</emp>, College Publications, UK.
+
+<br>
+<br>
+With D. Gabbay, M. de Boer and M. Slavkovic.&nbsp;Two-dimensional Standard Deontic Logic.  To appear in <em>Synthese</em>.
+
+<br>
+<br> 
+
+<a href="http://parent.gforge.uni.lu/papers/id.pdf">
+Why be afraid of identity?</a>. In: A. Artikis, R. Craven, N. Kesim, B. Sadighi and
+Kostas Stathis (eds), <em>Logic Programs, Norms and Action: Essays in Honor of Marek
+J. Sergot on the Occasion of His 60th Birthday</em>, 2012, Springer,
+LNCS, pp. 295-307.
+
+<br>
+<br>
+
+With P. Turini, L. van der Torre and S. Colombo Tosatto.&nbsp;<a href="http://parent.gforge.uni.lu/papers/games.pdf">Contrary-to-duties in games</a>. In: A. Artikis, R. Craven, N. Kesim, B. Sadighi and
+Kostas Stathis (eds),  <em>Logic Programs, Norms and Action: Essays in Honor of Marek
+J. Sergot on the Occasion of His 60th Birthday</em>, 2012, Springer,
+LNCS, pp. 329-348. 
+
+<br><br>      
+
+
+<a href="http://parent.gforge.uni.lu/papers/preprintmp.pdf">Moral particularism in the light of deontic logic</a>, <em>Artificial Intelligence and Law</em>, August 2011, Volume 19, Issue 2-3, pp 75-98. 
+<br> 
+Revised/extended version of the DEON'10 paper cited below.
+
+<br>      
+<br> 
+
+
+<a href="http://parent.gforge.uni.lu/papers/deon10preprint.pdf">
+Moral particularism and deontic logic</a>. In G. Governatori and
+G. Sartor (eds), <em>Proceedings of the 10th International Workshop on
+Deontic Logic (DEON'10)</em>, Springer-Verlag, Berlin Heidelberg,
+2010, pp. 84-96.  <br> Honoured with the best paper award. 
+
+<br>
+<br> 
+
+<a href="http://parent.gforge.uni.lu/papers/dsdl2-preprint.pdf">
+A complete axiom set for Hansson's deontic logic DSDL2</a>,
+<em>Logic Journal of the IGPL</em>, 2010, 18 (3), pp.422-429.  
+
+<a href="http://parent.gforge.uni.lu/papers/deon08.pdf"> On the strong
+completeness of Aqvist's dyadic deontic logic G</a>. In R. van der
+Meyden and L. van der Torre (eds), <em>Proceedings of the 9th
+International Workshop on Deontic Logic (DEON'08)</em>,
+Springer-Verlag, Berlin Heidelberg, 2008, pp. 189-202.  
+
+<br>
+<br> 
+
+With A.J.I. Jones. <a
+href="http://parent.gforge.uni.lu/papers/arti08.pdf">Normative-informational
+positions: A modal-logical approach </a>, <em>Artificial Intelligence
+and Law</em>, 16, 2008, pp. 7-23.  
+
+<br>
+<br>
+
+With A.J.I. Jones.  <a
+href="http://parent.gforge.uni.lu/papers/gdn-final.pdf"> A
+convention-based approach to agent communication languages</a>,
+<em>Group Decision and Negotiation</em>, 16, 2007.  <br> A revised and
+extended version of the AAMAS-03 paper cited below.
+
+<br>
+<br> 
+
+<a href="http://parent.gforge.uni.lu/papers/ks.pdf">Review of:
+Coherent Systems</a> by Karl Schlechta, <em>Logic Journal of the
+Interest Group in Pure and Applied Logic (IGPL),</em> 13, 2005,
+pp. 353-359.  
+
+<br>
+<br> 
+
+With F. Vraalsen, M. S. Lund, T. Mahler and K. Stolen.  <a
+href="http://parent.gforge.uni.lu/papers/iTrust05.pdf"> Specifying
+legal risk scenarios using the Coras threat modelling language</a>. In
+P. Hessmann, V. Issarny and S. Shin (eds), <em>Trust Management,
+Proceedings of the 3nd International Conference on Trust Management,
+iTrust 2005</em>, Paris, 23-26 May 2005, Springer Verlag, LNCS 3477,
+2005, pp. 45-61.
+
+<br> 
+<br>
+ 
+
+With A.J.I. Jones.  <a
+ href="http://parent.gforge.uni.lu/papers/paperspringer10oct.pdf">
+ Conventional signalling acts and conversation</a>. Presented at the
+ <em>AAMAS-03 Workshop on Agent Communication Languages and
+ conversation policies</em>, Melbourne, 14 July 2003. A revised
+ version appeared in F. Dignum (ed), <em>Advances in Agent
+ Communication</em>, LNAI, Springer Verlag, 2004, pp. 1-17.  
+
+<br>
+<br>
+
+<a href="http://parent.gforge.uni.lu/papers/jancl03.pdf">Remedial
+interchange, contrary-to-duty obligation and commutation</a>,
+<em>Journal of Applied Non-Classical Logics</em>, 13, 3/4, 2003,
+pp. 345-375.  <br> A revised and extended version of the MFI'03 paper.
+
+<br>
+<br> 
+
+<a href="http://parent.gforge.uni.lu/papers/mfi03.pdf">Remedial
+interchange</a> (in French). In A. Herzig, B. Chaib-draa and
+P. Mathieu (eds), <em>Mod&egrave;les Formels de l'Interaction (MFI'03)
+</em>, Toulouse, C&eacute;padues-Edition, 2003, pp. 199-208.  
+
+<br>
+<br> 
+
+With P. Livet. <a
+href="http://parent.gforge.uni.lu/papers/arc.rtf">Argumentation,
+revision and conditionals</a> (in French). In P. Livet (ed),
+<em>R&eacute;vision des Croyances</em>, Paris, Hermes Science
+Publication, 2002, pp. 229-258.
+
+<br>
+<br>
+
+<a href="http://parent.gforge.uni.lu/papers/cit.pdf">Cumulativity,
+identity and time in deontic logic</a>, <em>Fundamenta
+Informaticae</em>, 48, 2001, pp. 237-252.  <br> A revised and extended
+version of the DEON'00 paper below.  
+
+<br>
+<br>
+
+Defeasible conditional obligation: some remarks. In R. Demolombe and
+R. Hilpinen (eds) <em>Proceedings of the 5th International Workshop on
+Deontic Logic in Computer Science (DEON'00)</em>, Toulouse (France),
+20-22 January 2000, pp. 301-309.
+
+
+
+

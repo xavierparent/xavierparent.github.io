@@ -1,0 +1,178 @@
+<p> Maximality vs. Optimality in Dyadic Deontic Logic - Part II. Submitted.
+
+
+<p>
+With L. van der Torre.  Aggregative Deontic Detachment for Normative Reasoning (short paper). To appear in the <em> Proceedings of the 14th International Conference 
+on Principles of Knowledge
+Representation and Reasoning (KR 2014)</em>. Springer.
+
+<p>
+<a href="http://xp.3points.fr/pdf/jpl.pdf">  Maximality vs
+optimality in dyadic deontic logic - Completeness
+results for systems in Hansson's tradition</a>. To appear in <em> Journal of
+Philosophical
+Logic</em>.
+ 
+<p>With D. Gabbay and L. van der Torre. <a href="http://xp.3points.fr/pdf/macbook.pdf"> An intuitionistic basis for
+input/output logic</a>. In S. O. Hansson (ed), <em>David Makinson on
+Classical Methods for Non-Classical Problems</em>, Springer, Series Oustanding Contributions to Logic, Vol. 3, 2014, pp. 263-286.
+
+<p>With L. van der Torre. Input/output logics. In D. Gabbay,
+J. Horty, X. Parent, R. van der Meyden,, L. van der Torre (eds),
+<em>Handbook of Deontic Logic</em>, College Publications,
+UK, 2013, pp. 499-544
+
+<p>With L. van der Torre. Aggregative deontic detachment. Poster
+presentation at the USC Deontic Modality Workshop,
+Los Angeles, May 20-22, 2013.
+
+<p>With D. Gabbay, M. de Boer and M. Slavkovic. Two-dimensional
+Standard Deontic Logic. <em>Synthese, 2012, Volume 187, Issue 2,
+pp. 623-660</em>
+
+
+<p> <a href="http://xp.3points.fr/pdf/id.pdf"> Why be afraid
+of identity?</a>. In: A. Artikis, R. Craven, N. Kesim, B. Sadighi and
+Kostas Stathis (eds), <em>Logic Programs, Norms and Action: Essays in
+Honor of Marek J. Sergot on the Occasion of His 60th Birthday</em>,
+2012, Springer, LNCS, pp. 295-307.  
+
+<p> With P. Turini, L. van der Torre and S. Colombo Tosatto.<a
+href="http://xp.3points.fr/pdf/games.pdf">
+Contrary-to-duties in games</a>. In: A. Artikis, R. Craven, N. Kesim,
+B. Sadighi and Kostas Stathis (eds), <em>Logic Programs, Norms and
+Action: Essays in Honor of Marek J. Sergot on the Occasion of His 60th
+Birthday</em>, 2012, Springer, LNCS, pp. 329-348.  
+
+<p> <a href="http://xp.3points.fr/pdf/preprintmp.pdf">Moral
+particularism in the light of deontic logic</a>, <em>Artificial
+Intelligence and Law</em>, August 2011, Volume 19, Issue 2-3, pp.
+75-98.  <br> Revised/extended version of the DEON'10 paper cited
+below.
+
+<p>
+
+Moral particularism and deontic logic. In G. Governatori and
+G. Sartor (eds), <em>Proceedings of the 10th International Workshop on
+Deontic Logic (DEON'10)</em>, Springer-Verlag, Berlin Heidelberg,
+2010, pp. 84-96.  <br> Honoured with the <b> best paper
+award</b>. (Best to read the above revised version)
+
+
+<p>
+
+<a href="http://xp.3points.fr/pdf/dsdl2-preprint.pdf">
+A complete axiom set for Hansson's deontic logic DSDL2</a>,
+<em>Logic Journal of the IGPL</em>, 2010, 18 (3), pp.422-429.
+
+
+<p>
+<a href="http://xp.3points.fr/pdf/deon08.pdf">On the strong
+completeness of Aqvist's dyadic deontic logic G</a>. In R. van der
+Meyden and L. van der Torre (eds), <em>Proceedings of the 9th
+International Workshop on Deontic Logic (DEON'08)</em>,
+Springer-Verlag, Berlin Heidelberg, 2008, pp. 189-202.  
+
+
+<p>
+
+
+With A.J.I. Jones. <a
+href="http://xp.3points.fr/pdf/arti08.pdf">Normative-informational
+positions: A modal-logical approach</a>, <em>Artificial Intelligence
+and Law</em>, 16, 2008, pp. 7-23.
+
+
+<p>
+
+
+With A.J.I. Jones.  <a href="http://xp.3points.fr/pdf/gdn-final.pdf"> A
+convention-based approach to agent communication languages</a>,
+<em>Group Decision and Negotiation</em>, 16, 2007.  </br> A revised and
+extended version of the AAMAS-03 paper cited below.
+
+
+<p>
+
+<a href="http://xp.3points.fr/pdf/ks.pdf">Review of:
+Coherent Systems</a> by Karl Schlechta, <em>Logic Journal of the
+Interest Group in Pure and Applied Logic (IGPL),</em> 13, 2005,
+pp. 353-359.  
+
+
+<p>
+
+With F. Vraalsen, M. S. Lund, T. Mahler and K. Stolen.  <a href="http://xp.3points.fr/pdf/iTrust05.pdf"> Specifying
+legal risk scenarios using the Coras threat modelling language</a>. In
+P. Hessmann, V. Issarny and S. Shin (eds), <em>Trust Management,
+Proceedings of the 3nd International Conference on Trust Management,
+iTrust 2005</em>, Paris, 23-26 May 2005, Springer Verlag, LNCS 3477,
+2005, pp. 45-61.
+
+
+<p>
+
+With A.J.I. Jones.  <a href="http://xp.3points.fr/pdf/paperspringer10oct.pdf">
+ Conventional signalling acts and conversation</a>. Presented at the
+ <em>AAMAS-03 Workshop on Agent Communication Languages and
+ conversation policies</em>, Melbourne, 14 July 2003. A revised
+ version appeared in F. Dignum (ed), <em>Advances in Agent
+ Communication</em>, LNAI, Springer Verlag, 2004, pp. 1-17.  
+
+
+<p>
+
+<a href="http://xp.3points.fr/pdf/jancl03.pdf">Remedial
+interchange, contrary-to-duty obligation and commutation</a>,
+<em>Journal of Applied Non-Classical Logics</em>, 13, 3/4, 2003,
+pp. 345-375.  <br> A revised and extended version of the MFI'03 paper.
+
+
+<p>
+
+<a href="http://xp.3points.fr/pdf/mfi03.pdf">Remedial
+interchange</a> (in French). In A. Herzig, B. Chaib-draa and
+P. Mathieu (eds), <em>Modèles Formels de l'Interaction (MFI'03)
+</em>, Toulouse, Cépadues-Edition, 2003, pp. 199-208.  
+
+
+<p>
+With P. Livet. <a href="http://xp.3points.fr/pdf/arc.rtf">Argumentation,
+revision and conditionals</a> (in French). In P. Livet (ed),
+<em>Révision des Croyances</em>, Paris, Hermes Science
+Publication, 2002, pp. 229-258.
+
+
+<p>
+<a href="http://xp.3points.fr/pdf/cit.pdf">Cumulativity,
+identity and time in deontic logic</a>, <em>Fundamenta
+Informaticae</em>, 48, 2001, pp. 237-252.  
+
+<br> A revised and extended
+version of the DEON'00 paper below.  
+
+
+<p>
+
+Defeasible conditional obligation: some remarks. In R. Demolombe and
+R. Hilpinen (eds) <em>Proceedings of the 5th International Workshop on
+Deontic Logic in Computer Science (DEON'00)</em>, Toulouse (France),
+20-22 January 2000, pp. 301-309.
+
+
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=5926371; 
+var sc_invisible=1; 
+var sc_security="d2b0399d"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="hits counter"
+href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5926371/0/d2b0399d/1/"
+alt="hits counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+

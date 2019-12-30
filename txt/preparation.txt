@@ -1,0 +1,9 @@
+<ul style="list-style-type: none;">
+<li> With D. Gabbay, J. Horty, R. van der Meyden, and L. van der Torre (eds), Handbook of Deontic Logic and Normative Systems, College Publications, UK, 2013.
+Link to publisher's <a href=http://collegepublications.co.uk/handbooks/?00001>homepage</a>. Available from both amazon UK and amazon US. </li>
+<li>With F. Cariani, D. Grossi and J. Meheus. <em> Proceedings of the 12th International Conference on Deontic Logic and Normative Systems</em>, To appear with Springer.</li>
+</ul>
+
+
+
+

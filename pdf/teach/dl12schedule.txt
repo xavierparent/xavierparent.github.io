@@ -1,0 +1,34 @@
+DEONTIC LOGIC 2012
+
+
+Lecturers
+--------
+D. Gabbay, X. parent, L. van der Torre
+
+
+Objective
+--------
+The objective of this course is to introduce students to formal methods for normative reasoning (deontic logic)
+
+
+Description
+---------
+
+The 'Handbook of Deontic Logic' is used as teaching material. One chapter is presented per lecture. 
+
+Schedule
+-------
+
+Background:
+ -Historical survey
+- Imperatives
+Traditional developments:
+ - permission
+- conflicts between norms
+- constitutive norms
+New standards:
+- alternative semantics
+- Input-output logic
+- Algebraic approach to normative systems
+
+During the last lecture students present their project

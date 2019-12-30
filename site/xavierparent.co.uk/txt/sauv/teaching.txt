@@ -1,0 +1,16 @@
+<ul> 
+
+<li><b>IBECS6, Spring 2009: Introduction to Artificial Intelligence</b> 
+<br/> 
+Topics covered : planning ; prolog ; learning ; and philo & AI. 
+<br/> 
+Course description, <a href="http://wiki.uni.lu/becs/Introduction+to+artificial+intelligence.html">Spring term 2008 </a> (I'm taking over David Grossi's part)
+</li> 
+
+<li><b>Tutorial for EASSS'09 on normative multi-agent systems</b> (with Leon van der Torre and Guido Boella) 
+<br/>
+Topic: dyadic deontic logic 
+<br/> 
+<a href="http://agents009.di.unito.it/easss_courses.html">Course description</a> (I'm doing part 2)
+</li>
+</ul> 

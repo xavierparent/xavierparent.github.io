@@ -1,0 +1,18 @@
+Xavier Parent, "Preference-based semantics for dyadic deontic logics
+in Hansson's tradition: a survey of axiomatisation results".
+
+Abstract ======== I present and discuss a number of axiomatization
+results about so-called dyadic deontic logics in the preference-based
+semantics tradition.  These rely on ranking possible worlds in terms
+of an Hanssonian binary preference relation of comparative goodness or
+betterness.  In that framework the conditional obligation operator is
+defined in terms of best antecedent-worlds.  The goal is to identify
+the different systems that can be obtained, depending on the special
+properties envisaged for the betterness relation, and depending on how
+the notion of ''best" is understood (optimality vs.  maximality,
+stringent vs. liberal maximization).  If time allows, decidability
+issues will also be discussed.
+
+The material presented in this talk is based on an overview chapter in
+preparation commissioned for the 2nd volume of the ''Handbook of
+Deontic Logic and Normative Systems".
