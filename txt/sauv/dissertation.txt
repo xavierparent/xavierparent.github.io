@@ -1,0 +1,7 @@
+<ul> 
+
+  <li>Non-monotonic logic and modes of argumentation: the case of conditional obligation <br />
+[<a href="http://parent.gforge.uni.lu/papers/abs.pdf">Abstract</a>] [<a href="http://parent.gforge.uni.lu/papers/pres.pdf">Presentation</a>] [<a href="http://parent.gforge.uni.lu/papers/contents.pdf">Contents</a>] [Full text] (written in French, for institutional reasons) 
+</li>
+
+</ul> 

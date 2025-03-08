@@ -1,0 +1,43 @@
+Course name
+----------
+Intro to programming in Python
+
+Lecturers
+-------
+
+X. Parent,  G. Casini
+
+Objective
+--------
+
+The objective of this course is to teach students how to program in python. This is a learn as-you-do 
+course.
+
+Description
+----------
+
+We survey the basics and more advanced topics. There are homework assignments each week, and a final individual
+project.
+ 
+13 lectures covering the following
+
+* main data types and built-in functions
+* methods and containers
+* debugging
+* functions
+* modules
+* classes
+* lambda
+* graphics
+* cryptography
+* trees
+* randomized algorithms
+
+Language: English
+
+Class hours: Mon 15:45-17:15
+
+Grading system: project 50%; homework 50%.
+
+
+

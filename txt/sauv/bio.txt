@@ -1,0 +1,5 @@
+<p><b>I am a research associate in the Individual and Collective Reasoning (ICR) group at the University of Luxembourg, working with Prof. Dr. L. Van der Torre</b>.</p>
+<p>I took the PhD degree from the University of Aix-Marseille I, France. Prior to joining the ICR group, I was a research associate at the Department of Computer Science of King's College London, UK.</p>
+
+<p>My research interests include <b>deontic logic</b> and <b>formalization of speech acts</b></p>
+

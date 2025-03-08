@@ -1,0 +1,50 @@
+Course name
+----------
+Intelligent Agents 2
+
+Lecturers
+-------
+
+D. Gabbay, X. Parent, L. van der Torre
+X. Sun (Teaching assistant) 
+
+Motivation: 
+---------
+
+This course is for the students interested in artificial intelligence,
+in particular formal reasoning. Normative reasoning studies how social
+norms, obligations and permissions can be formalized. This enables
+scientists to study various aspects of inter-agent coordination within
+a system (computer network, institution, organization, group . . . ).
+
+Objective
+--------
+
+The objective of this course is to introduce students to
+formal methods for normative reasoning for agents (deontic logic)
+
+
+Description
+----------
+
+We will study two recent standards for normative reasoning: so-called
+dyadic deontic logic (DDL);  and so-called input/output logic. Basic
+issues from the deontic logic literature will be 
+revisited using these tools (conflicts, imperatives)
+
+In addition, students will work on a small project related to the
+course. The project paper should be an essay of 6 pages
+length. They will be presented by students durring the last lecture. 
+
+
+This course will  extend the course on Knowledge Representation, and
+complement the module "Selected topics in AI 2013".
+
+Language: English
+
+Class hours: Thu 14:00-15:30
+
+Location Room: B13
+
+
+

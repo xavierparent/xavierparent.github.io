@@ -1,0 +1,48 @@
+Course name
+----------
+Intelligent Agents 2
+
+Lecturers
+-------
+
+X. Parent, L. van der Torre,A. Steen
+A. Farjami (Teaching assistant) 
+
+Motivation: 
+---------
+
+This course is for the students interested in artificial intelligence, and more specifically normative reasoning and deontic logic. Like humans, AI systems evolve in a highly regulated environment. They have to abide by legal rules (e.g., privacy requirements), but also make ethical decisions when needed and reason about the consequences of the choice being made. Deontic logic  studies how 
+norms (obligations and permissions) can be formalized, and how normative reasoning can be mechanized. It is a first step towards responsible AI.
+
+Objective
+--------
+
+The objective of this course is to introduce students to
+formal methods for normative reasoning for agents (deontic logic)
+
+
+Description
+----------
+
+We will study three frameworks for normative reasoning that have
+dominated the landscape: standard deontic logic (SDL), dyadic deontic
+logic (DDL), and input/output logic (I/O logic). Basic issues from the
+deontic logic literature will be revisited using these tools
+(conflicts, reasoning about violation). This year we will also look at the implementation in Isabelle/HOL.
+ 
+
+Teaching material will be provided in the form of chapters from a forthcoming textbook. 
+
+This course will extend the course on Knowledge Representation, and
+complement the module "Selected topics in AI".
+
+Language: English
+
+Class hours: Wed 14:00-15:30
+
+
+
+Grading system: final exam 50%; homework 25%; project 25%.
+
+
+

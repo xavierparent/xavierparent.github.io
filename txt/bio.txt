@@ -1,0 +1,16 @@
+
+
+
+<p>Research interest: <b>logic</b>
+
+<div align="center">
+
+</div>
+</p>
+ <p> I am a senior research assistant in the Individual and Collective Reasoning (ICR) group at the Computer Science Department of  the University of Luxembourg.  
+
+I took the PhD degree from the University of Aix-Marseille I,
+ France. After that, I first worked as a research associate at the
+ Department of Computer Science of King's College London, UK, and then
+  at  the
+ Department of Computer Science of the University of Luxembourg. </p>

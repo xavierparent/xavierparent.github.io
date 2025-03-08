@@ -1,0 +1,8 @@
+
+</p> With L. van der Torre. ``Put Your parachute on, and Jump Out!”<a
+href="http://xp.3points.fr/pdf/jumppaper.pdf">Technical report </a>(with full
+proofs).
+
+<!--<?php include("p/src/counts.inc.php"); ?>-->
+
+
