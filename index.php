@@ -113,7 +113,7 @@ I did my PhD under the supervision of P. Livet at the University of Aix-Marseill
 
 
 
-</p>My CV is <a href="/pdf/cv-xav-25Sep2024.pdf"> here</a>. <p>
+</p>My CV is <a href="/pdf/cv-xav-8July2025.pdf"> here</a>. <p>
 
 	  </p>
 
