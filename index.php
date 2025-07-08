@@ -9,6 +9,7 @@
 		<meta name="description" content="Xavier Parent | POSTDOC Technical University of Vienna">
 		<meta name="keywords" content="xavier parent, philosophy, philosophy of norms, deontic logic">
 		<meta name="Robots" content="Index">
+		<meta name="author" content="renaud@3points.fr">
 		<meta charset="utf-8">
 		
 		<meta http-equiv="cache-control" content="no-cache">
@@ -24,7 +25,7 @@
 		<!--[if IE]><? include("p/ie.inc.php"); ?><![endif]-->
 
 	</head>
- 
+
 
 	<body>
 
@@ -39,7 +40,7 @@
 </article>				
 			</section>				
 <p> 
-I work mainly on logic, with a special focus on (deontic) conditionals. 
+I work mainly on (philosophical) logic and semantics, with a special focus on (deontic) conditionals. 
 
  <p>
 <p>I am a senior postdoc  at the <a href="https://informatics.tuwien.ac.at/orgs/e192"> Institute of Logic and 
@@ -62,25 +63,57 @@ I did my PhD under the supervision of P. Livet at the University of Aix-Marseill
 <table style="width:100%">
   <tr>
     <td style="width:10px">
-NEWS</td> 
-<td style="width:75%">
-<ul>
- <li>Joint paper <em>DEON 2025</em></li>
-  <li>Definite descriptions paper  in  <em> IfColog</em></li>
-  <li><a href="https://deonconferences.org/"> DEON</a> steering committee member (2023-2027)</li>
-  <li>PC membership: DEON 2025 ; JELIA 2025 ; KR 2025, NMR 2025, VCLA 2025 ; CLAR 2025 ; ICAIL 2025</li>
-</ul> 
-	  </td></tr>
+<img src="news.png" width="40px" height="40px"></td> 
+<td style="width:95%">
+     Transitivity paper in <em> J. Philos. Logic<em> </td>
+    </tr>
+<tr style="height:20px"><td></td><td></td></tr>
+<tr><td style="width:30%">
+</td>
+<td style="width:70%">Definite descriptions paper  forthcoming in  <em> IfColog </em>. 
+</td>
+<tr style="height:20px"><td></td><td></td></tr>
+<tr><td style="width:30%">
+</td>
+<td style="width:70%">Paper  "conditional norms in HOL" (with a case study on Parfit's repugnant conclusion) forthcoming in JANCL. 
+ Corresponding Isabelle/HOL data set at the AFP.  (See links below.)
+</td>
+
+  </tr>
+<tr style="height:20px"><td></td><td></td></tr>
+<tr>
+    <td style="width:10px">
+</td>  <td style="width:95%">The perspectival obligation paper (with D. Pichler) won the <b> John-Jules
+	  Meyer best paper award at DEON 2023</b>. Pic <a
+  href="pic.jpeg">here </a> </td></tr>
+<tr style="height:20px"><td></td><td></td></tr>
+<tr><td style="width:30%">
+</td>
+ <td style="width:70%">
+   Report on the ANCoR project in KI - Künstliche Intelligenz </EM>
+</td>
+<tr style="height:20px"><td></td><td></td></tr>
+
+<tr>
+<td style="width:25%">
+</td> <td style="width:75%">
+   <a href="https://deonconferences.org/"> DEON</a> steering committee member (2023-2027) </td></tr><tr>
+<tr style="height:20px"><td></td><td></td></tr>
+<td style="width:30%">
+</td> <td style="width:100%">
+   PC membership: DEON 2025 ; CLAR 2025 ; ICAIL 2025; ARQNL 2024; KR 2024; NMR 2024; AAMAS 2024 (SPC, AI ethics track); AiML 2024; IJCAR 2024</td>
+<tr style="height:20px"><td></td><td></td></tr>
 </table>
 
- 
+
+	  
 
 
 <p>
 
 
 
-</p>My CV is <a href="/pdf/cv-xav-8July2025.pdf"> here</a>. <p>
+</p>My CV is <a href="/pdf/cv-xav-25Sep2024.pdf"> here</a>. <p>
 
 	  </p>
 
@@ -208,25 +241,18 @@ Germany, July 18-21, 2016.
 <p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/">
 
 <section class="content"> <h2>Articles</h2> <article class="article"></article>
-<p class="paragraph2">With A. Ciabattoni and B. Istenič Urh "Deontic Explanations in Åqvist's systems", Forthcoming, DEON 2025 proceedings. 
+<p class="paragraph2">With D. Pichler, "Extensionality vs intensionality: a perspectival approach to conditional ought with definite descriptions". Forthcoming in <em>IfColog</em>. <a href="/pdf/collapse.pdf">Preprint</a>. 
 
-
-
-<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/">
-
-
-<p class="paragraph2">With D. Pichler, "Extensionality vs intensionality: a perspectival approach to conditional ought with definite descriptions". <em>IfColog</em>, 2025, 12(2), pp. 125-158. <a href="/pdf/collapse.pdf">Preprint</a>. 
-
-<p class="paragraph2">"On some weaker forms of transitivity in the logic of conditional obligation". <EM> J. Phil. Logic</EM>, 2024, 53, pages 721–760. Available online <a href="https://doi.org/10.1007/s10992-024-09748-5"> here</a> or as a PDF <a href="https://link.springer.com/content/pdf/10.1007/s10992-024-09748-5.pdf"> here</a>. 
+<p class="paragraph2">"On some weaker forms of transitivity in the logic of conditional obligation". <EM> J. Phil. Logic</EM>. Published: 26 April 2024. Available online <a href="https://doi.org/10.1007/s10992-024-09748-5"> here</a> or as a PDF <a href="https://link.springer.com/content/pdf/10.1007/s10992-024-09748-5.pdf"> here</a>. 
 <span property="cc:attributionName">Licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
 </p>
 
-<p class="paragraph2">"Report on `Axiomatizing conditional normative reasoning'". <EM> KI - Künstliche Intelligenz</EM>, 2024, 38, pages 107–111. <!-- <p>&copy; 2024 Xavier Parent</p> --!> The Version of Record of this
+<p class="paragraph2">"Report on `Axiomatizing conditional normative reasoning'". <EM> KI - Künstliche Intelligenz</EM>, March 2024. <!-- <p>&copy; 2024 Xavier Parent</p> --!> The Version of Record of this
 article is available online 
 <a href="https://link.springer.com/article/10.1007/s13218-024-00832-1">here</a>. 
 <span property="cc:attributionName">Licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
 
-<p class="paragraph2"> With C. Benzmueller, "Normative conditional reasoning as a fragment of HOL". <EM>Journal of Applied Non-classical Logics</EM>. 2024, 34, pp. 561-592. Online version: <a href="https://www.tandfonline.com/doi/full/10.1080/11663081.2024.2386917"> here</a>. Accepted version (author manuscript):  
+<p class="paragraph2"> With C. Benzmueller, "Normative conditional reasoning as a fragment of HOL". <EM>Journal of Applied Non-classical Logics</EM>. 2024. Online version: <a href="https://www.tandfonline.com/doi/full/10.1080/11663081.2024.2386917"> here</a>. Accepted version (author manuscript):  
 <a href="/pdf/jancl24.pdf">here</a>. 
 
 <p class="paragraph2"> With C. Benzmueller, "Conditional normative reasoning as a fragment of HOL (Isabelle/HOL dataset)". <EM> Archives of Formal Proof</EM>. 2024, Online <a href="https://www.isa-afp.org/entries/CondNormReasHOL.html"> here</a>. This is the Isabelle/HOL dataset of the previous paper. 
@@ -254,7 +280,7 @@ pp. 79-98,
 
 
 <p class="paragraph2">With M. Olsweski and L. van der Torre ''Permissives and regulative norms in deontic logic".
-<EM>Journal of Logic and Computation</EM>.<a href="/pdf/perm.pdf">PDF</a>, 2024, 34 (4), pp. 728–763 .</p>
+<EM>Journal of Logic and Computation</EM>.<a href="/pdf/perm.pdf">PDF</a>. On-line first 31 May 2023.</p>
 
 <p class="paragraph2">''On some weakenings of transitivity in the logic of norms (extended abstract)". In O. Arieli, G. Casini and L. Giordano (eds),
 <EM>NMR 2022 : International Workshop on Non-Monotonic Reasoning</EM> (associated with FLoc and KR 2022), 7-8 August 2022, Haifa, Israel,  CEUR-WS, vol. 3197, pp. 147-150.
@@ -600,7 +626,7 @@ Non-monotonic logic and modes of argumentation: the case of conditional obligati
 <p class="paragraph2"> 
 
 <br>
-<b><a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?semester=2025S&courseNr=192130&dsrid=758">Deontic Logic for Normative Reasoning</a></b> (2022-2025)
+<b><a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8226&dsrid=104&courseNr=192130&semester=2023S">Deontic Logic for Normative Reasoning</a></b> (2022-3)
 TU Wien (Master's Programme Logic and Computation) <br>
 
 <br>
